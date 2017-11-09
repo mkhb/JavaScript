@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Javascript Functions</title>
+</head>
+<body>
+<h1>Javascript functions</h1>
+<p> This example calls a function which performs a calculation and returns the result: </p>
+<p id = "demo"></p>
+<script>
+var x = myfunction(4,3);  // Function is called, return value will end up in x
+function myfunction(a , b) {
+    return a*b; // Function returns the product of a and b
+}
+document.getElementById('demo').innerHTML=x;
+</script>
+</body>
+</html>

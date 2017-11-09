@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Javascript Functions</title>
+</head>
+<body>
+<p id="demo"></p>
+    <script>
+        document.getElementById('demo').innerHTML= "The Temperature is " + toCelsius(77) + "Celsius";
+        function toCelsius(farhenite) {
+            return (5/9)*(farhenite-32);
+        }
+    </script>
+</body>
+</html>

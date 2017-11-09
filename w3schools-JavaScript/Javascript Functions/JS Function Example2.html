@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Javascript Function </title>
+</head>
+<body>
+<h1>Javascript Function</h1>
+<p>This example calls a function which performs a calculation, and returns the result:</p>
+<p id="demoAdd"></p>
+<p id="demoSub"></p>
+<p id="demoMul"></p>
+<p id="demoDiv"></p>
+    <script>
+        function myFuncAdd(p1,p2) {
+            return p1+p2;
+        }
+
+        function myFuncSub(p1,p2) {
+            return p1-p2;
+        }
+
+        function myFuncMul(p1,p2) {
+            return p1*p2;
+        }
+
+        function myFuncDiv(p1,p2) {
+            return p1/p2;
+        }
+
+        document.getElementById('demoAdd').innerHTML=myFuncAdd(5,5);
+        document.getElementById('demoSub').innerHTML=myFuncSub(5,5);
+        document.getElementById('demoMul').innerHTML=myFuncMul(5,5);
+        document.getElementById('demoDiv').innerHTML=myFuncDiv(5,5);
+    </script>
+</body>
+</html>

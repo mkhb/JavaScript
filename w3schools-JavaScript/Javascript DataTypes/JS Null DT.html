@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Javascript Null Datatype</title>
+</head>
+<body>
+<h1>Javascript Null Datatype</h1>
+<p>Objects can be emptied by setting the value to <b>null</b>.</p>
+<p id="demo"></p>
+<script>
+    var person = {
+        name : "John Derry",
+        age  : 50 ,
+        color : "fair"
+    };
+    person = null; // Now value is null, but type is still an object
+    document.getElementById('demo').innerHTML = typeof person;
+</script>
+
+</body>
+</html>

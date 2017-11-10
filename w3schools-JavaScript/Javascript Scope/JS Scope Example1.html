@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Javascript Scope</title>
+</head>
+<body>
+<h1>Javascript Scope of the  Variable</h1>
+<p>The local variable carName cannot be accessed from code outside the function :</p>
+<p id="demo"></p>
+<script>
+    myfunction(); // code here can not use carName
+    document.getElementById('demo').innerHTML= " The Type of care name is " + typeof carName;
+    function myfunction() {
+
+        // code here can use carName
+        var carName = "Volvo";
+    }
+</script>
+</body>
+</html>

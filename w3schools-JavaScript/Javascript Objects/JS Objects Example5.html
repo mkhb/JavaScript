@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Accessing Object Methods</title>
+</head>
+<body>
+<p>An object method is function defination stored as property value</p>
+<p>if you access it without (), it will return function defination</p>
+<p id="demo"></p>
+<script>
+    var person = {
+        fName : "Md Khadeer",
+        lName : "Hussain Basha",
+        ID    : "ISSIND0161",
+        fullname : function () {
+            return this.fName + " " + this.lName;
+        }
+    };
+    document.getElementById('demo').innerHTML=person.fullname;
+</script>
+</body>
+</html>

@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Javascript Scope</title>
+</head>
+<body>
+<h1>Javascript Global Variable</h1>
+<p>AA GLOBAL variable can be accessed from any script or function.</p>
+<p id="demo"></p>
+<script>
+   var carName = "Volvo";
+    myfunction();
+    function myfunction() {
+        document.getElementById('demo').innerHTML= " I Can Display " + carName;
+    }
+</script>
+</body>
+</html>

@@ -14,21 +14,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="JS GlobalScope Example2.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Javascript Scope/JS GlobalScope Example2.html">
+      <file leaf-file-name="JS String Example5.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Javascript  String Programs/JS String Example5.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="324">
-              <caret line="18" column="7" lean-forward="true" selection-start-line="18" selection-start-column="7" selection-end-line="18" selection-end-column="7" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="JS GlobalScope Example3.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Javascript Scope/JS GlobalScope Example3.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="15" column="7" lean-forward="true" selection-start-line="15" selection-start-column="7" selection-end-line="15" selection-end-column="7" />
+            <state relative-caret-position="252">
+              <caret line="14" column="7" lean-forward="true" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
               <folding />
             </state>
           </provider>
@@ -46,13 +36,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Javascript Syntax/JavaScriptAssignmentOperator.html" />
-        <option value="$PROJECT_DIR$/Javascript Syntax/JavaScriptExpression.html" />
-        <option value="$PROJECT_DIR$/Javascript Syntax/JavaScriptExpressionExample2.html" />
-        <option value="$PROJECT_DIR$/Javascript Syntax/JavaScriptExpressionExample3.html" />
-        <option value="$PROJECT_DIR$/Javascript Syntax/JavaScriptKeywords.html" />
-        <option value="$PROJECT_DIR$/Javascript Syntax/JavaScriptComments.html" />
-        <option value="$PROJECT_DIR$/Javascript Statement Programs/JS Statement Example1.html" />
         <option value="$PROJECT_DIR$/Javascript Statement Programs/JS Statement Example2.html" />
         <option value="$PROJECT_DIR$/Javascript Statement Programs/JS Statement Example3.html" />
         <option value="$PROJECT_DIR$/Javascript Statement Programs/JS Statement Example4.html" />
@@ -97,6 +80,13 @@
         <option value="$PROJECT_DIR$/Javascript Scope/JS GlobalScope Example.html" />
         <option value="$PROJECT_DIR$/Javascript Scope/JS GlobalScope Example2.html" />
         <option value="$PROJECT_DIR$/Javascript Scope/JS GlobalScope Example3.html" />
+        <option value="$PROJECT_DIR$/Javascript Events/JS Events Example1.html" />
+        <option value="$PROJECT_DIR$/Javascript Events/JS Events Example2.html" />
+        <option value="$PROJECT_DIR$/Javascript Events/JS Events Example3.html" />
+        <option value="$PROJECT_DIR$/Javascript  String Programs/JS String Example1.html" />
+        <option value="$PROJECT_DIR$/Javascript  String Programs/JS String Example3.html" />
+        <option value="$PROJECT_DIR$/Javascript  String Programs/JS String Example4.html" />
+        <option value="$PROJECT_DIR$/Javascript  String Programs/JS String Example5.html" />
       </list>
     </option>
   </component>
@@ -106,7 +96,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="y" value="28" />
     <option name="width" value="1360" />
     <option name="height" value="706" />
@@ -138,7 +128,7 @@
             <path>
               <item name="w3schools-JavaScript" type="b2602c69:ProjectViewProjectNode" />
               <item name="w3schools-JavaScript" type="462c0819:PsiDirectoryNode" />
-              <item name="Javascript Scope" type="462c0819:PsiDirectoryNode" />
+              <item name="Javascript  String Programs" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -170,26 +160,27 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.JS GlobalScope Example3.html">
-    <configuration name="JS GlobalScope Example2.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/w3schools-JavaScript/Javascript Scope/JS GlobalScope Example2.html" />
-    <configuration name="JS GlobalScope Example3.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/w3schools-JavaScript/Javascript Scope/JS GlobalScope Example3.html" />
-    <configuration name="JS GlobalScope Example.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/w3schools-JavaScript/Javascript Scope/JS GlobalScope Example.html" />
-    <configuration name="JS Objects Example5.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/w3schools-JavaScript/Javascript Objects/JS Objects Example5.html" />
-    <configuration name="JS Scope Example1.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/w3schools-JavaScript/Javascript Scope/JS Scope Example1.html" />
+  <component name="RunManager" selected="JavaScript Debug.JS String Example5.html">
+    <configuration name="JS Events Example3.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/w3schools-JavaScript/Javascript Events/JS Events Example3.html" />
+    <configuration name="JS String Example1.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/w3schools-JavaScript/Javascript  String Programs/JS String Example1.html" />
+    <configuration name="JS String Example2.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/w3schools-JavaScript/Javascript  String Programs/JS String Example2.html" />
+    <configuration name="JS String Example3.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/w3schools-JavaScript/Javascript  String Programs/JS String Example3.html" />
+    <configuration name="JS String Example4.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/w3schools-JavaScript/Javascript  String Programs/JS String Example4.html" />
+    <configuration name="JS String Example5.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/w3schools-JavaScript/Javascript  String Programs/JS String Example5.html" />
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.JS Objects Example5.html" />
-      <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.JS Scope Example1.html" />
-      <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.JS GlobalScope Example.html" />
-      <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.JS GlobalScope Example2.html" />
-      <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.JS GlobalScope Example3.html" />
+      <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.JS Events Example3.html" />
+      <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.JS String Example1.html" />
+      <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.JS String Example3.html" />
+      <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.JS String Example4.html" />
+      <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.JS String Example5.html" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.JS GlobalScope Example3.html" />
-        <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.JS GlobalScope Example2.html" />
-        <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.JS GlobalScope Example.html" />
-        <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.JS Scope Example1.html" />
-        <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.JS Objects Example5.html" />
+        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.JS String Example5.html" />
+        <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.JS String Example4.html" />
+        <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.JS String Example3.html" />
+        <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.JS String Example2.html" />
+        <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.JS String Example1.html" />
       </list>
     </recent_temporary>
   </component>
@@ -212,14 +203,15 @@
       <workItem from="1510115477287" duration="7849000" />
       <workItem from="1510201834278" duration="12169000" />
       <workItem from="1510290375183" duration="8130000" />
+      <workItem from="1510568789358" duration="4907000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="45838000" />
+    <option name="totallyTimeSpent" value="50745000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="28" width="1368" height="707" extended-state="7" />
+    <frame x="-1" y="28" width="1368" height="707" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25503355" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -252,62 +244,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Javascript Syntax/JavaScriptAssignmentOperator.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="12" column="8" lean-forward="true" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Javascript Syntax/JavaScriptExpression.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="8" column="31" lean-forward="true" selection-start-line="8" selection-start-column="31" selection-end-line="8" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Javascript Syntax/JavaScriptExpressionExample2.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="16" column="7" lean-forward="true" selection-start-line="16" selection-start-column="7" selection-end-line="16" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Javascript Syntax/JavaScriptExpressionExample3.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="14" column="7" lean-forward="true" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Javascript Syntax/JavaScriptKeywords.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="10" column="17" lean-forward="true" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Javascript Syntax/JavaScriptComments.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="14" column="48" lean-forward="false" selection-start-line="14" selection-start-column="48" selection-end-line="14" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Javascript Syntax/JavaScriptVariables.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="16" column="7" lean-forward="true" selection-start-line="16" selection-start-column="7" selection-end-line="16" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Javascript Statement Programs/JS Statement Example1.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="14" column="7" lean-forward="true" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Javascript Statement Programs/JS Statement Example2.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="342">
@@ -438,7 +374,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="360">
           <caret line="20" column="7" lean-forward="true" selection-start-line="20" selection-start-column="7" selection-end-line="20" selection-end-column="7" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -544,7 +479,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
           <caret line="15" column="7" lean-forward="false" selection-start-line="15" selection-start-column="7" selection-end-line="15" selection-end-column="7" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -552,7 +486,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="252">
           <caret line="14" column="3" lean-forward="true" selection-start-line="14" selection-start-column="3" selection-end-line="14" selection-end-column="3" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -560,7 +493,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
           <caret line="15" column="7" lean-forward="true" selection-start-line="15" selection-start-column="7" selection-end-line="15" selection-end-column="7" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -568,7 +500,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="288">
           <caret line="16" column="7" lean-forward="true" selection-start-line="16" selection-start-column="7" selection-end-line="16" selection-end-column="7" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -576,7 +507,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="432">
           <caret line="24" column="7" lean-forward="true" selection-start-line="24" selection-start-column="7" selection-end-line="24" selection-end-column="7" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -584,7 +514,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="324">
           <caret line="18" column="6" lean-forward="false" selection-start-line="18" selection-start-column="6" selection-end-line="18" selection-end-column="6" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -592,7 +521,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
           <caret line="5" column="7" lean-forward="true" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="7" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -600,14 +528,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="216">
           <caret line="12" column="17" lean-forward="false" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Javascript Scope/JS GlobalScope Example2.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="324">
-          <caret line="18" column="7" lean-forward="true" selection-start-line="18" selection-start-column="7" selection-end-line="18" selection-end-column="7" />
+          <caret line="18" column="7" lean-forward="false" selection-start-line="18" selection-start-column="7" selection-end-line="18" selection-end-column="7" />
           <folding />
         </state>
       </provider>
@@ -615,7 +542,71 @@
     <entry file="file://$PROJECT_DIR$/Javascript Scope/JS GlobalScope Example3.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
+          <caret line="15" column="7" lean-forward="false" selection-start-line="15" selection-start-column="7" selection-end-line="15" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Javascript Events/JS Events Example1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="10" column="7" lean-forward="true" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Javascript Events/JS Events Example2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="9" column="7" lean-forward="true" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Javascript Events/JS Events Example3.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
           <caret line="15" column="7" lean-forward="true" selection-start-line="15" selection-start-column="7" selection-end-line="15" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Javascript  String Programs/JS String Example1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="14" column="7" lean-forward="true" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Javascript  String Programs/JS String Example2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="12" column="98" lean-forward="false" selection-start-line="12" selection-start-column="98" selection-end-line="12" selection-end-column="98" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Javascript  String Programs/JS String Example3.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="15" column="7" lean-forward="true" selection-start-line="15" selection-start-column="7" selection-end-line="15" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Javascript  String Programs/JS String Example4.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="14" column="7" lean-forward="true" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Javascript  String Programs/JS String Example5.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="14" column="7" lean-forward="true" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
           <folding />
         </state>
       </provider>

@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Javascript Examples</title>
+</head>
+<body>
+<p>click the button to display date?</p>
+<button onclick="displayDate()">The Time Is?</button>
+<p id="demo"></p>
+<script>
+    function displayDate() {
+        document.getElementById('demo').innerHTML=new Date();
+    }
+</script>
+</body>
+</html>

@@ -1,0 +1,18 @@
+<!--Both methods accept a second parameter as the starting position for the search: -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Javascript String Methods</title>
+</head>
+<body>
+<h1>Javascript String Methods</h1>
+<p>indexOf and lastIndexOf accepts a second parameter as the starting position for the search</p>
+<p id="demo"></p>
+<script>
+    var str = "Please locate where 'locate' occurs!";
+    var pos = str.indexOf("locate",15); // method acccepting a second parameter as a starting
+    document.getElementById('demo').innerHTML = pos;
+</script>
+</body>
+</html>

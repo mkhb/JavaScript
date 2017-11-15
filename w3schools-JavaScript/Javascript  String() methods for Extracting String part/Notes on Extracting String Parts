@@ -1,0 +1,52 @@
+Extracting String Parts :
+The are Three Methods for extracting part of string :
+1.slice(start , end)
+2.substring(start , end)
+3.substr(start , length)
+
+
+1. The slice() Method
+   slice() extracts a part of a string and returns the extracted part in a new string.
+   The method takes 2 parameters: the starting index (position), and the ending index (position).
+
+Example : var str = "Apple, Banana, Kiwi";
+          var res = str.slice(7, 13);
+
+1.1 If a parameter is negative, the position is counted from the end of the string.
+    This example slices out a portion of a string from position -12 to position -6:
+
+Example  : var str = "Apple, Banana, Kiwi";
+           var res = str.slice(-12,-6);
+
+1.2 If you omit the second parameter, the method will slice out the rest of the string
+
+Example : var res = str.slice(7);
+
+2. The substring() Method
+   substring() is similar to slice().
+   The difference is that substring() cannot accept negative indexes.
+
+Example : var str = "Apple, Banana, Kiwi";
+          var res = str.substring(7, 13);
+          Output : Banana
+
+note : If you omit the second parameter, substring() will slice out the rest of the string.
+
+3. The substr() Method
+   substr() is similar to slice().
+
+   The difference is that the second parameter specifies the length of the extracted part.
+
+Example : var str = "Apple, Banana, Kiwi";
+          var res = str.substr(7, 6);
+          output : Banana
+
+note : If the first parameter is negative, the position counts from the end of the string.
+       The second parameter can not be negative, because it defines the length.
+       If you omit the second parameter, substr() will slice out the rest of the string.
+
+
+
+
+
+

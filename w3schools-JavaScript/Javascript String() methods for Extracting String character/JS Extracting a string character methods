@@ -1,0 +1,32 @@
+Extracting String Characters
+There are 2 safe methods for extracting string characters:
+
+1.charAt(position)
+2.charCodeAt(position)
+
+1 The charAt() Method
+  The charAt() method returns the character at a specified index (position) in a string:
+Example : var str = "HELLO WORLD";
+          str.charAt(0);            // returns H
+
+2 The charCodeAt() Method
+  The charCodeAt() method returns the unicode of the character at a specified index in a string:
+Example : var str = "HELLO WORLD";
+          str.charCodeAt(0);         // returns 72
+
+
+Converting a String to an Array
+A string can be converted to an array with the split() method:
+Example: var txt = "a,b,c,d,e";   // String
+         txt.split(",");          // Split on commas
+         txt.split(" ");          // Split on spaces
+         txt.split("|");          // Split on pipe
+
+note : If the separator is omitted, the returned array will contain the whole string in index [0].
+
+1 if the separator is "", the returned array will be an array of single characters:
+
+Example : var txt = "Hello";       // String
+          txt.split("");           // Split in characters
+
+

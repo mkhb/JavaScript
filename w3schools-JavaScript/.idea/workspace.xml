@@ -14,11 +14,51 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="JS String Example5.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Javascript  String Programs/JS String Example5.html">
+      <file leaf-file-name="JS_Number_Example2.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Javascript Numbers/JS_Number_Example2.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="15" column="9" lean-forward="false" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="JS_Number_Example3.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Javascript Numbers/JS_Number_Example3.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="15" column="48" lean-forward="false" selection-start-line="15" selection-start-column="48" selection-end-line="15" selection-end-column="48" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="JS_Number_Example4.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Javascript Numbers/JS_Number_Example4.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="252">
-              <caret line="14" column="7" lean-forward="true" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
+              <caret line="14" column="48" lean-forward="false" selection-start-line="14" selection-start-column="48" selection-end-line="14" selection-end-column="48" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="JS_Number_Example5.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Javascript Numbers/JS_Number_Example5.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="15" column="7" lean-forward="true" selection-start-line="15" selection-start-column="7" selection-end-line="15" selection-end-column="7" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="JS_Number_Example6.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Javascript Numbers/JS_Number_Example6.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="252">
+              <caret line="14" column="48" lean-forward="false" selection-start-line="14" selection-start-column="48" selection-end-line="14" selection-end-column="48" />
               <folding />
             </state>
           </provider>
@@ -36,39 +76,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Javascript Statement Programs/JS Statement Example2.html" />
-        <option value="$PROJECT_DIR$/Javascript Statement Programs/JS Statement Example3.html" />
-        <option value="$PROJECT_DIR$/Javascript Statement Programs/JS Statement Example4.html" />
-        <option value="$PROJECT_DIR$/Javascript Statement Programs/JS Statement Example5.html" />
-        <option value="$PROJECT_DIR$/Javascript Syntax/JavaScript Variables Example2.html" />
-        <option value="$PROJECT_DIR$/Javascript Operators/JS Addition Operator.html" />
-        <option value="$PROJECT_DIR$/Javascript Operators/JS Assignment Operator.html" />
-        <option value="$PROJECT_DIR$/Javascript Operators/JS String Operators.html" />
-        <option value="$PROJECT_DIR$/Javascript Operators/JS += used for Concatenation.html" />
-        <option value="$PROJECT_DIR$/Javascript DataTypes/JS String DT.html" />
-        <option value="$PROJECT_DIR$/Javascript DataTypes/JS String Example2.html" />
-        <option value="$PROJECT_DIR$/Javascript DataTypes/JS String Example3.html" />
-        <option value="$PROJECT_DIR$/Javascript DataTypes/JS String Example4.html" />
-        <option value="$PROJECT_DIR$/Javascript DataTypes/JS String Example5.html" />
-        <option value="$PROJECT_DIR$/Javascript DataTypes/JS String Example6.html" />
-        <option value="$PROJECT_DIR$/Javascript DataTypes/JS Number DT.html" />
-        <option value="$PROJECT_DIR$/Javascript DataTypes/JS Boolean DT.html" />
-        <option value="$PROJECT_DIR$/Javascript DataTypes/JS Array DT.html" />
-        <option value="$PROJECT_DIR$/Javascript DataTypes/JS Objects DT.html" />
-        <option value="$PROJECT_DIR$/Javascript DataTypes/JS typeof Operator.html" />
-        <option value="$PROJECT_DIR$/Javascript DataTypes/JS typeof Operator  Number.html" />
-        <option value="$PROJECT_DIR$/Javascript DataTypes/JS unidefined DT.html" />
-        <option value="$PROJECT_DIR$/Javascript DataTypes/JS undefined DT Example2.html" />
-        <option value="$PROJECT_DIR$/Javascript DataTypes/JS Null DT.html" />
-        <option value="$PROJECT_DIR$/Javascript DataTypes/JS undefined DT Example3.html" />
-        <option value="$PROJECT_DIR$/Javascript DataTypes/JS Difference Between null and undefined DT.html" />
-        <option value="$PROJECT_DIR$/Javascript DataTypes/JS Primitive DT.html" />
-        <option value="$PROJECT_DIR$/Javascript DataTypes/JS Complex DT.html" />
-        <option value="$PROJECT_DIR$/Javascript Functions/JS Function Example1.html" />
-        <option value="$PROJECT_DIR$/Javascript Functions/JS Function Example2.html" />
-        <option value="$PROJECT_DIR$/Javascript Functions/JS Function return Example.html" />
-        <option value="$PROJECT_DIR$/Javascript Functions/JS Functions Converting F to C.html" />
-        <option value="$PROJECT_DIR$/Javascript Functions/JS Function without () will return function defination.html" />
         <option value="$PROJECT_DIR$/Javascript Functions/JS Function Example3.html" />
         <option value="$PROJECT_DIR$/Javascript Objects/JS Objects Example1.html" />
         <option value="$PROJECT_DIR$/Javascript Objects/JS Object Example2.html" />
@@ -87,6 +94,39 @@
         <option value="$PROJECT_DIR$/Javascript  String Programs/JS String Example3.html" />
         <option value="$PROJECT_DIR$/Javascript  String Programs/JS String Example4.html" />
         <option value="$PROJECT_DIR$/Javascript  String Programs/JS String Example5.html" />
+        <option value="$PROJECT_DIR$/Javascript  String Programs/JS == Operator for String.html" />
+        <option value="$PROJECT_DIR$/Javascript  String Programs/JS === Operator for String.html" />
+        <option value="$PROJECT_DIR$/Javascript String Methods/JS String indexOf.html" />
+        <option value="$PROJECT_DIR$/Javascript String Methods/JS String length.html" />
+        <option value="$PROJECT_DIR$/Javascript String Methods/JS String lastIndexOf.html" />
+        <option value="$PROJECT_DIR$/Javascript String Methods/JS String indexOf and lastIndexOf accept 2nd Param as String Position.html" />
+        <option value="$PROJECT_DIR$/Javascript String Methods/JS String search.html" />
+        <option value="$PROJECT_DIR$/Javascript Extracting String part/JS String slice().html" />
+        <option value="$PROJECT_DIR$/Javascript Extracting String part/JS String slice() with negetive values.html" />
+        <option value="$PROJECT_DIR$/Javascript Extracting String part/JS String slice() with single Parameter.html" />
+        <option value="$PROJECT_DIR$/Javascript Extracting String part/JS String slice() with single parameter with negetive value.html" />
+        <option value="$PROJECT_DIR$/Javascript Extracting String part/JS String slice() with single parameter.html" />
+        <option value="$PROJECT_DIR$/Javascript Extracting String part/substring() method Examples/JS substring().html" />
+        <option value="$PROJECT_DIR$/Javascript Extracting String part/substring() method Examples/JS substring() method omitting second parameter.html" />
+        <option value="$PROJECT_DIR$/Javascript Extracting String part/Notes on Extracting String Parts" />
+        <option value="$PROJECT_DIR$/Javascript Extracting String part/substr() method examples/JS substr() example.html" />
+        <option value="$PROJECT_DIR$/Javascript Extracting String part/substr() method examples/JS substr() with first param as negetive.html" />
+        <option value="$PROJECT_DIR$/Javascript String Methods/JS String replace() method.html" />
+        <option value="$PROJECT_DIR$/Javascript String Methods/JS String replace() method example2.html" />
+        <option value="$PROJECT_DIR$/Javascript String Methods/JS String toLowerCase() method.html" />
+        <option value="$PROJECT_DIR$/Javascript String Methods/Javascript String Methods Docs" />
+        <option value="$PROJECT_DIR$/Javascript String Methods/JS String concat() method.html" />
+        <option value="$PROJECT_DIR$/Javascript String() methods for Extracting String character/JS string chatAt() method.html" />
+        <option value="$PROJECT_DIR$/Javascript String Methods/JS String toUpperCase() method.html" />
+        <option value="$PROJECT_DIR$/Javascript String() methods for Extracting String character/JS string charAtCode() method.html" />
+        <option value="$PROJECT_DIR$/Javascript String() methods for Extracting String character/JS Extracting a string character methods" />
+        <option value="$PROJECT_DIR$/Javascript String() methods for Extracting String character/JS string split() method for Coverting String to Array.html" />
+        <option value="$PROJECT_DIR$/Javascript Numbers/JS_Number_Example.html" />
+        <option value="$PROJECT_DIR$/Javascript Numbers/JS_Number_Example2.html" />
+        <option value="$PROJECT_DIR$/Javascript Numbers/JS_Number_Example3.html" />
+        <option value="$PROJECT_DIR$/Javascript Numbers/JS_Number_Example4.html" />
+        <option value="$PROJECT_DIR$/Javascript Numbers/JS_Number_Example5.html" />
+        <option value="$PROJECT_DIR$/Javascript Numbers/JS_Number_Example6.html" />
       </list>
     </option>
   </component>
@@ -96,7 +136,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="y" value="28" />
     <option name="width" value="1360" />
     <option name="height" value="706" />
@@ -116,8 +156,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -128,12 +166,14 @@
             <path>
               <item name="w3schools-JavaScript" type="b2602c69:ProjectViewProjectNode" />
               <item name="w3schools-JavaScript" type="462c0819:PsiDirectoryNode" />
-              <item name="Javascript  String Programs" type="462c0819:PsiDirectoryNode" />
+              <item name="Javascript Numbers" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -144,6 +184,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Javascript Extracting String part/slice() method examples" />
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/Simple Javascript Programs/images" />
     </key>
@@ -160,27 +201,27 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.JS String Example5.html">
-    <configuration name="JS Events Example3.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/w3schools-JavaScript/Javascript Events/JS Events Example3.html" />
-    <configuration name="JS String Example1.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/w3schools-JavaScript/Javascript  String Programs/JS String Example1.html" />
-    <configuration name="JS String Example2.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/w3schools-JavaScript/Javascript  String Programs/JS String Example2.html" />
-    <configuration name="JS String Example3.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/w3schools-JavaScript/Javascript  String Programs/JS String Example3.html" />
-    <configuration name="JS String Example4.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/w3schools-JavaScript/Javascript  String Programs/JS String Example4.html" />
+  <component name="RunManager" selected="JavaScript Debug.JS_Number_Example6.html">
     <configuration name="JS String Example5.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/w3schools-JavaScript/Javascript  String Programs/JS String Example5.html" />
+    <configuration name="JS_Number_Example2.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/w3schools-JavaScript/Javascript Numbers/JS_Number_Example2.html" />
+    <configuration name="JS_Number_Example3.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/w3schools-JavaScript/Javascript Numbers/JS_Number_Example3.html" />
+    <configuration name="JS_Number_Example4.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/w3schools-JavaScript/Javascript Numbers/JS_Number_Example4.html" />
+    <configuration name="JS_Number_Example5.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/w3schools-JavaScript/Javascript Numbers/JS_Number_Example5.html" />
+    <configuration name="JS_Number_Example6.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/w3schools-JavaScript/Javascript Numbers/JS_Number_Example6.html" />
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.JS Events Example3.html" />
-      <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.JS String Example1.html" />
-      <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.JS String Example3.html" />
-      <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.JS String Example4.html" />
-      <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.JS String Example5.html" />
+      <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.JS_Number_Example2.html" />
+      <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.JS_Number_Example3.html" />
+      <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.JS_Number_Example4.html" />
+      <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.JS_Number_Example5.html" />
+      <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.JS_Number_Example6.html" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.JS String Example5.html" />
-        <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.JS String Example4.html" />
-        <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.JS String Example3.html" />
-        <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.JS String Example2.html" />
-        <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.JS String Example1.html" />
+        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.JS_Number_Example6.html" />
+        <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.JS_Number_Example5.html" />
+        <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.JS_Number_Example4.html" />
+        <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.JS_Number_Example3.html" />
+        <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.JS_Number_Example2.html" />
       </list>
     </recent_temporary>
   </component>
@@ -204,19 +245,21 @@
       <workItem from="1510201834278" duration="12169000" />
       <workItem from="1510290375183" duration="8130000" />
       <workItem from="1510568789358" duration="4907000" />
+      <workItem from="1510654502126" duration="2033000" />
+      <workItem from="1510717609666" duration="15177000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="50745000" />
+    <option name="totallyTimeSpent" value="67955000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1" y="28" width="1368" height="707" extended-state="6" />
+    <frame x="0" y="28" width="1368" height="707" extended-state="7" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25503355" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3184191" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32978722" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24981357" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -244,237 +287,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Javascript Statement Programs/JS Statement Example2.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="19" column="7" lean-forward="true" selection-start-line="19" selection-start-column="7" selection-end-line="19" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Javascript Statement Programs/JS Statement Example3.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="15" column="48" lean-forward="false" selection-start-line="15" selection-start-column="48" selection-end-line="15" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Javascript Statement Programs/JS Statement Example4.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="12" column="8" lean-forward="false" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Javascript Statement Programs/JS Statement Example5.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="15" column="66" lean-forward="false" selection-start-line="15" selection-start-column="66" selection-end-line="15" selection-end-column="66" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Javascript Syntax/JavaScript Variables Example2.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="15" column="7" lean-forward="true" selection-start-line="15" selection-start-column="7" selection-end-line="15" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Javascript Operators/JS Addition Operator.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="17" column="7" lean-forward="true" selection-start-line="17" selection-start-column="7" selection-end-line="17" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Javascript Operators/JS Assignment Operator.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="12" column="48" lean-forward="false" selection-start-line="12" selection-start-column="48" selection-end-line="12" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Javascript Operators/JS String Operators.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="13" column="64" lean-forward="false" selection-start-line="13" selection-start-column="64" selection-end-line="13" selection-end-column="64" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Javascript Operators/JS Assignment Operator Example2.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="18" column="0" lean-forward="true" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Javascript DataTypes/JS String DT.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="12" column="48" lean-forward="false" selection-start-line="12" selection-start-column="48" selection-end-line="12" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Javascript DataTypes/JS String Example3.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="11" column="48" lean-forward="false" selection-start-line="11" selection-start-column="48" selection-end-line="11" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Javascript DataTypes/JS String Example4.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="15" column="48" lean-forward="false" selection-start-line="15" selection-start-column="48" selection-end-line="15" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Javascript DataTypes/JS String Example5.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="13" column="75" lean-forward="false" selection-start-line="13" selection-start-column="75" selection-end-line="13" selection-end-column="75" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Javascript DataTypes/JS String Example6.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="14" column="84" lean-forward="false" selection-start-line="14" selection-start-column="84" selection-end-line="14" selection-end-column="84" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Javascript DataTypes/JS Number DT.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="17" column="7" lean-forward="true" selection-start-line="17" selection-start-column="7" selection-end-line="17" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Javascript DataTypes/JS String Example2.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="17" column="7" lean-forward="false" selection-start-line="17" selection-start-column="7" selection-end-line="17" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Javascript DataTypes/JS Boolean DT.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="19" column="7" lean-forward="true" selection-start-line="19" selection-start-column="7" selection-end-line="19" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Javascript DataTypes/JS Array DT.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="15" column="7" lean-forward="true" selection-start-line="15" selection-start-column="7" selection-end-line="15" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Javascript DataTypes/JS Objects DT.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="20" column="7" lean-forward="true" selection-start-line="20" selection-start-column="7" selection-end-line="20" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Javascript DataTypes/JS typeof Operator String.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="12" column="113" lean-forward="false" selection-start-line="12" selection-start-column="113" selection-end-line="12" selection-end-column="113" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Javascript DataTypes/JS typeof Operator  Number.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="14" column="7" lean-forward="true" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Javascript DataTypes/JS unidefined DT.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Javascript DataTypes/JS undefined DT Example2.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="15" column="7" lean-forward="true" selection-start-line="15" selection-start-column="7" selection-end-line="15" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Javascript DataTypes/JS Null DT.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="21" column="7" lean-forward="true" selection-start-line="21" selection-start-column="7" selection-end-line="21" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Javascript DataTypes/JS undefined DT Example3.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="13" column="62" lean-forward="false" selection-start-line="13" selection-start-column="62" selection-end-line="13" selection-end-column="62" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Javascript DataTypes/JS Difference Between null and undefined DT.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="15" column="7" lean-forward="true" selection-start-line="15" selection-start-column="7" selection-end-line="15" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Javascript DataTypes/JS Primitive DT.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="14" column="7" lean-forward="true" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Javascript DataTypes/JS Complex DT.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="11" column="166" lean-forward="false" selection-start-line="11" selection-start-column="166" selection-end-line="11" selection-end-column="166" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Javascript Functions/JS Function Example1.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="18" column="7" lean-forward="true" selection-start-line="18" selection-start-column="7" selection-end-line="18" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Javascript Functions/JS Function Example2.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Javascript Functions/JS Function return Example.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="18" column="7" lean-forward="true" selection-start-line="18" selection-start-column="7" selection-end-line="18" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Javascript Functions/JS Functions Converting F to C.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="14" column="59" lean-forward="false" selection-start-line="14" selection-start-column="59" selection-end-line="14" selection-end-column="59" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Javascript Functions/JS Function without () will return function defination.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="14" column="56" lean-forward="false" selection-start-line="14" selection-start-column="56" selection-end-line="14" selection-end-column="56" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Javascript Functions/JS Function Example3.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
@@ -535,7 +347,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="324">
           <caret line="18" column="7" lean-forward="false" selection-start-line="18" selection-start-column="7" selection-end-line="18" selection-end-column="7" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -543,7 +354,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
           <caret line="15" column="7" lean-forward="false" selection-start-line="15" selection-start-column="7" selection-end-line="15" selection-end-column="7" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -551,7 +361,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
           <caret line="10" column="7" lean-forward="true" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -559,7 +368,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="162">
           <caret line="9" column="7" lean-forward="true" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -567,7 +375,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
           <caret line="15" column="7" lean-forward="true" selection-start-line="15" selection-start-column="7" selection-end-line="15" selection-end-column="7" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -575,7 +382,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="252">
           <caret line="14" column="7" lean-forward="true" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -583,7 +389,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="216">
           <caret line="12" column="98" lean-forward="false" selection-start-line="12" selection-start-column="98" selection-end-line="12" selection-end-column="98" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -591,7 +396,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
           <caret line="15" column="7" lean-forward="true" selection-start-line="15" selection-start-column="7" selection-end-line="15" selection-end-column="7" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -599,6 +403,21 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="252">
           <caret line="14" column="7" lean-forward="true" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Javascript  String Programs/JS === Operator for String.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="17" column="7" lean-forward="false" selection-start-line="17" selection-start-column="7" selection-end-line="17" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Javascript  String Programs/JS == Operator for String.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="17" column="7" lean-forward="false" selection-start-line="17" selection-start-column="7" selection-end-line="17" selection-end-column="7" />
           <folding />
         </state>
       </provider>
@@ -606,7 +425,255 @@
     <entry file="file://$PROJECT_DIR$/Javascript  String Programs/JS String Example5.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="252">
-          <caret line="14" column="7" lean-forward="true" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
+          <caret line="14" column="7" lean-forward="false" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Javascript String Methods/JS String length.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="56" lean-forward="false" selection-start-line="0" selection-start-column="56" selection-end-line="0" selection-end-column="56" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Javascript String Methods/JS String indexOf.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="17" column="7" lean-forward="true" selection-start-line="17" selection-start-column="7" selection-end-line="17" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Javascript String Methods/JS String lastIndexOf.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="17" column="7" lean-forward="true" selection-start-line="17" selection-start-column="7" selection-end-line="17" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Javascript String Methods/JS String indexOf and lastIndexOf accept 2nd Param as String Position.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="10" column="17" lean-forward="false" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Javascript String Methods/JS String search.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="17" column="7" lean-forward="false" selection-start-line="17" selection-start-column="7" selection-end-line="17" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Javascript  String() methods for Extracting String part/slice() method examples/JS String slice() with negetive values.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="19" column="7" lean-forward="true" selection-start-line="19" selection-start-column="7" selection-end-line="19" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Javascript  String() methods for Extracting String part/slice() method examples/JS String slice() with single parameter with negetive value.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="4" column="16" lean-forward="false" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Javascript  String() methods for Extracting String part/slice() method examples/JS String slice() with single Parameter.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="13" column="48" lean-forward="false" selection-start-line="13" selection-start-column="48" selection-end-line="13" selection-end-column="48" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Javascript  String() methods for Extracting String part/slice() method examples/JS String slice().html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="14" column="48" lean-forward="false" selection-start-line="12" selection-start-column="4" selection-end-line="14" selection-end-column="48" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Javascript  String() methods for Extracting String part/slice() method examples/JS String slice() with single parameter.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="15" column="7" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Javascript  String() methods for Extracting String part/substring() method Examples/JS substring() method omitting second parameter.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="16" column="7" lean-forward="false" selection-start-line="16" selection-start-column="7" selection-end-line="16" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Javascript  String() methods for Extracting String part/substring() method Examples/JS substring().html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="18" column="7" lean-forward="false" selection-start-line="18" selection-start-column="7" selection-end-line="18" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Javascript  String() methods for Extracting String part/substr() method examples/JS substr() example.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="13" column="50" lean-forward="false" selection-start-line="13" selection-start-column="50" selection-end-line="13" selection-end-column="50" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Javascript  String() methods for Extracting String part/substr() method examples/JS substr() with first param as negetive.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="10" column="40" lean-forward="false" selection-start-line="10" selection-start-column="40" selection-end-line="10" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Javascript  String() methods for Extracting String part/Notes on Extracting String Parts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="47" column="0" lean-forward="false" selection-start-line="47" selection-start-column="0" selection-end-line="47" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Javascript String Methods/JS String replace() method.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="4" column="16" lean-forward="false" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Javascript String Methods/JS String replace() method example2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="19" column="7" lean-forward="false" selection-start-line="19" selection-start-column="7" selection-end-line="19" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Javascript String Methods/JS String toLowerCase() method.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="16" column="7" lean-forward="false" selection-start-line="16" selection-start-column="7" selection-end-line="16" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Javascript String Methods/Javascript String Methods Docs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="495">
+          <caret line="46" column="47" lean-forward="false" selection-start-line="46" selection-start-column="47" selection-end-line="46" selection-end-column="47" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Javascript String Methods/JS String concat() method.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="13" column="51" lean-forward="false" selection-start-line="13" selection-start-column="51" selection-end-line="13" selection-end-column="51" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Javascript String() methods for Extracting String character/JS string charAt() method.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="15" column="7" lean-forward="false" selection-start-line="15" selection-start-column="7" selection-end-line="15" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Javascript String Methods/JS String toUpperCase() method.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="18" column="7" lean-forward="true" selection-start-line="18" selection-start-column="7" selection-end-line="18" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Javascript String() methods for Extracting String character/JS string charAtCode() method.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="16" column="7" lean-forward="true" selection-start-line="16" selection-start-column="7" selection-end-line="16" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Javascript String() methods for Extracting String character/JS Extracting a string character methods">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="495">
+          <caret line="31" column="0" lean-forward="false" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Javascript String() methods for Extracting String character/JS string split() method for Coverting String to Array.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" column="6" lean-forward="true" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Javascript Numbers/JS_Number_Example.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="16" column="7" lean-forward="true" selection-start-line="16" selection-start-column="7" selection-end-line="16" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Javascript Numbers/JS_Number_Example2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="15" column="9" lean-forward="false" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Javascript Numbers/JS_Number_Example3.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="15" column="48" lean-forward="false" selection-start-line="15" selection-start-column="48" selection-end-line="15" selection-end-column="48" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Javascript Numbers/JS_Number_Example4.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="14" column="48" lean-forward="false" selection-start-line="14" selection-start-column="48" selection-end-line="14" selection-end-column="48" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Javascript Numbers/JS_Number_Example5.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="15" column="7" lean-forward="true" selection-start-line="15" selection-start-column="7" selection-end-line="15" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Javascript Numbers/JS_Number_Example6.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="14" column="48" lean-forward="false" selection-start-line="14" selection-start-column="48" selection-end-line="14" selection-end-column="48" />
           <folding />
         </state>
       </provider>

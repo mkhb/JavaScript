@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Javascript Number</title>
+</head>
+<body>
+<h2>Javascript Number</h2>
+<p>Infinity is returned if you calculate a number outside the largest possible number:</p>
+<p id="demo"></p>
+<script>
+    var myNum = 2;
+    var txt = " ";
+    while (myNum!=Infinity){
+        myNum = myNum * myNum;
+        txt = txt + "<br> " + myNum;
+    }
+    document.getElementById('demo').innerHTML=txt;
+</script>
+</body>
+</html>

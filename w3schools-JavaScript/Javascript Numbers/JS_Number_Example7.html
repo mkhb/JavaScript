@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Javascript Numbers</title>
+</head>
+<body>
+<p id="demoAdd"></p>
+<p id="demoDiv"></p>
+<p id="demoSub"></p>
+<p id="demoMul"></p>
+<button onclick="myfunc()">Click Here !!!</button>
+<p>JavaScript will try to convert strings to numbers in numeric operations</p>
+<script>
+    var x = "4";
+    var y = "2";
+    function myfunc() {
+        document.getElementById('demoAdd').innerHTML=x+y;
+        document.getElementById('demoDiv').innerHTML=x/y;
+        document.getElementById('demoSub').innerHTML=x-y;
+        document.getElementById('demoMul').innerHTML=x*y;
+    }
+
+</script>
+</body>
+</html>

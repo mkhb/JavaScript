@@ -25,39 +25,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Javascript Extracting String part/substring() method Examples/JS substring() method omitting second parameter.html" />
-        <option value="$PROJECT_DIR$/Javascript Extracting String part/Notes on Extracting String Parts" />
-        <option value="$PROJECT_DIR$/Javascript Extracting String part/substr() method examples/JS substr() example.html" />
-        <option value="$PROJECT_DIR$/Javascript Extracting String part/substr() method examples/JS substr() with first param as negetive.html" />
-        <option value="$PROJECT_DIR$/Javascript String Methods/JS String replace() method.html" />
-        <option value="$PROJECT_DIR$/Javascript String Methods/JS String replace() method example2.html" />
-        <option value="$PROJECT_DIR$/Javascript String Methods/JS String toLowerCase() method.html" />
-        <option value="$PROJECT_DIR$/Javascript String Methods/Javascript String Methods Docs" />
-        <option value="$PROJECT_DIR$/Javascript String Methods/JS String concat() method.html" />
-        <option value="$PROJECT_DIR$/Javascript String() methods for Extracting String character/JS string chatAt() method.html" />
-        <option value="$PROJECT_DIR$/Javascript String Methods/JS String toUpperCase() method.html" />
-        <option value="$PROJECT_DIR$/Javascript String() methods for Extracting String character/JS string charAtCode() method.html" />
-        <option value="$PROJECT_DIR$/Javascript String() methods for Extracting String character/JS Extracting a string character methods" />
-        <option value="$PROJECT_DIR$/Javascript String() methods for Extracting String character/JS string split() method for Coverting String to Array.html" />
-        <option value="$PROJECT_DIR$/Javascript Numbers/JS_Number_Example.html" />
-        <option value="$PROJECT_DIR$/Javascript Numbers/JS_Number_Example2.html" />
-        <option value="$PROJECT_DIR$/Javascript Numbers/JS_Number_Example3.html" />
-        <option value="$PROJECT_DIR$/Javascript Numbers/JS_Number_Example4.html" />
-        <option value="$PROJECT_DIR$/Javascript Numbers/JS_Number_Example5.html" />
-        <option value="$PROJECT_DIR$/Javascript Numbers/JS_Number_Example6.html" />
-        <option value="$PROJECT_DIR$/Javascript Numbers/JS_Number_Example7.html" />
-        <option value="$PROJECT_DIR$/Javascript Numbers/JS_NaN.html" />
-        <option value="$PROJECT_DIR$/Javascript Numbers/JS_Number_Example8.html" />
-        <option value="$PROJECT_DIR$/Javascript Numbers/JS_Number_example9.html" />
-        <option value="$PROJECT_DIR$/Javascript Numbers/JS_Number_Example10.html" />
-        <option value="$PROJECT_DIR$/Javascript Numbers/JS_Number_Example11.html" />
-        <option value="$PROJECT_DIR$/Javascript Numbers/JS_Number_Example12.html" />
-        <option value="$PROJECT_DIR$/Javascript Numbers/JS_Number_Example13.html" />
-        <option value="$PROJECT_DIR$/Javascript Numbers/JS_Number_Example14.html" />
-        <option value="$PROJECT_DIR$/Javascript Numbers/JS_Number_Example15.html" />
-        <option value="$PROJECT_DIR$/Javascript Numbers/JS_NumberAsObjects_Example1.html" />
-        <option value="$PROJECT_DIR$/Javascript Numbers/JS_NumberAsObject_Example2.html" />
-        <option value="$PROJECT_DIR$/Javascript Numbers/JS_NumberASObjects_Example3.html" />
         <option value="$PROJECT_DIR$/Javascript Numbers/JS_NumberAsObjects_Example4.html" />
         <option value="$PROJECT_DIR$/Javascript Number Methods/JS_toString()_Method.html" />
         <option value="$PROJECT_DIR$/Javascript Number Methods/JS_toExponential()_Method.html" />
@@ -76,6 +43,39 @@
         <option value="$PROJECT_DIR$/Javascript Math/JS_Math.max.html" />
         <option value="$PROJECT_DIR$/Javascript Math/JS_Math.random.html" />
         <option value="$PROJECT_DIR$/Javascript Math/Javascript Math" />
+        <option value="$PROJECT_DIR$/Javascript Date/JS Date Example1.html" />
+        <option value="$PROJECT_DIR$/Javascript Date/Javascript Date Example2.html" />
+        <option value="$PROJECT_DIR$/Javascript Date/JS Date Example3.html" />
+        <option value="$PROJECT_DIR$/Javascript Date/JS Date Example4.html" />
+        <option value="$PROJECT_DIR$/Javascript Date/JS Date Example5.html" />
+        <option value="$PROJECT_DIR$/Javascript Date/JS Date Example6.html" />
+        <option value="$PROJECT_DIR$/Javascript Date Methods.html" />
+        <option value="$PROJECT_DIR$/Javascript Date Methods/JS Date tostring method.html" />
+        <option value="$PROJECT_DIR$/Javascript Date Methods/JS Date toUTCString method.html" />
+        <option value="$PROJECT_DIR$/Javascript Date Methods/JS Date toDateString method.html" />
+        <option value="$PROJECT_DIR$/Javascript Date Formats/JS fulldate.html" />
+        <option value="$PROJECT_DIR$/Javascript Date Formats/JS ISO Date.html" />
+        <option value="$PROJECT_DIR$/Javascript Date Formats/JS ISO Date (Year and Month).html" />
+        <option value="$PROJECT_DIR$/Javascript Date Formats/JS ISO Date (YYYY).html" />
+        <option value="$PROJECT_DIR$/Javascript Date Formats/JS ISO Dates (Date-Time).html" />
+        <option value="$PROJECT_DIR$/Javascript Date Formats/JS ISO Dates (DATE-TIME) Z-UTC.html" />
+        <option value="$PROJECT_DIR$/Javascript Date Formats/JS ISO Dates (Date-Time) T-GMT.html" />
+        <option value="$PROJECT_DIR$/Javascript Date Formats/JS Short Date Example1.html" />
+        <option value="$PROJECT_DIR$/Javascript Date Formats/JS Short Date Example2.html" />
+        <option value="$PROJECT_DIR$/Javascript Date Formats/JS Long Date Example.html" />
+        <option value="$PROJECT_DIR$/Javascript Date Formats/JS Long Date Example2.html" />
+        <option value="$PROJECT_DIR$/Javascript Date Formats/JS Long Date Example3.html" />
+        <option value="$PROJECT_DIR$/Javascript Date Formats/JS Long Date Example4.html" />
+        <option value="$PROJECT_DIR$/Javascript Date Formats/JS Full Date Example5.html" />
+        <option value="$PROJECT_DIR$/Javascript Date Formats/JS Full Date Example1.html" />
+        <option value="$PROJECT_DIR$/Javascript Date Formats/JS Full Date Example2.html" />
+        <option value="$PROJECT_DIR$/Javascript Date Methods/JS getTime() method.html" />
+        <option value="$PROJECT_DIR$/Javascript Date Methods/JS getFullYear() method.html" />
+        <option value="$PROJECT_DIR$/Javascript Date Methods/JS getDay() method.html" />
+        <option value="$PROJECT_DIR$/Javascript Date Methods/JS getDay() method1.html" />
+        <option value="$PROJECT_DIR$/Javascript Date Methods/JS setFullYear() method.html" />
+        <option value="$PROJECT_DIR$/Javascript Date Methods/JS setDate() method.html" />
+        <option value="$PROJECT_DIR$/Javascript Date Methods/JS setDate() method Example1.html" />
       </list>
     </option>
   </component>
@@ -85,7 +85,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="y" value="28" />
     <option name="width" value="1360" />
     <option name="height" value="706" />
@@ -105,6 +105,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
@@ -117,7 +118,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -145,27 +145,27 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.JS_Math.random.html">
+  <component name="RunManager" selected="JavaScript Debug.JS setDate() method Example1.html">
     <configuration name="JS String Example5.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/w3schools-JavaScript/Javascript  String Programs/JS String Example5.html" />
-    <configuration name="JS_Math.cos.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/w3schools-JavaScript/Javascript Math/JS_Math.cos.html" />
-    <configuration name="JS_Math.max.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/w3schools-JavaScript/Javascript Math/JS_Math.max.html" />
-    <configuration name="JS_Math.min.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/w3schools-JavaScript/Javascript Math/JS_Math.min.html" />
-    <configuration name="JS_Math.random.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/w3schools-JavaScript/Javascript Math/JS_Math.random.html" />
-    <configuration name="JS_Math.sin.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/w3schools-JavaScript/Javascript Math/JS_Math.sin.html" />
+    <configuration name="JS getDay() method1.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/w3schools-JavaScript/Javascript Date Methods/JS getDay() method1.html" />
+    <configuration name="JS getDay() method.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/w3schools-JavaScript/Javascript Date Methods/JS getDay() method.html" />
+    <configuration name="JS setDate() method Example1.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/w3schools-JavaScript/Javascript Date Methods/JS setDate() method Example1.html" />
+    <configuration name="JS setDate() method.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/w3schools-JavaScript/Javascript Date Methods/JS setDate() method.html" />
+    <configuration name="JS setFullYear() method.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/w3schools-JavaScript/Javascript Date Methods/JS setFullYear() method.html" />
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.JS_Math.sin.html" />
-      <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.JS_Math.cos.html" />
-      <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.JS_Math.min.html" />
-      <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.JS_Math.max.html" />
-      <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.JS_Math.random.html" />
+      <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.JS getDay() method.html" />
+      <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.JS getDay() method1.html" />
+      <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.JS setFullYear() method.html" />
+      <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.JS setDate() method.html" />
+      <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.JS setDate() method Example1.html" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.JS_Math.random.html" />
-        <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.JS_Math.max.html" />
-        <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.JS_Math.min.html" />
-        <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.JS_Math.cos.html" />
-        <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.JS_Math.sin.html" />
+        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.JS setDate() method Example1.html" />
+        <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.JS setDate() method.html" />
+        <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.JS setFullYear() method.html" />
+        <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.JS getDay() method1.html" />
+        <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.JS getDay() method.html" />
       </list>
     </recent_temporary>
   </component>
@@ -193,14 +193,16 @@
       <workItem from="1510717609666" duration="15177000" />
       <workItem from="1510818559105" duration="7386000" />
       <workItem from="1510893948279" duration="6977000" />
+      <workItem from="1510979850097" duration="4161000" />
+      <workItem from="1510991331310" duration="6972000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="82318000" />
+    <option name="totallyTimeSpent" value="93451000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1" y="28" width="1368" height="707" extended-state="6" />
+    <frame x="0" y="28" width="1368" height="707" extended-state="7" />
     <layout>
       <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.37733036" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -227,237 +229,20 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/.." />
+    </ignored-roots>
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Javascript  String() methods for Extracting String part/substring() method Examples/JS substring().html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="18" column="7" lean-forward="false" selection-start-line="18" selection-start-column="7" selection-end-line="18" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Javascript  String() methods for Extracting String part/substr() method examples/JS substr() example.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="13" column="50" lean-forward="false" selection-start-line="13" selection-start-column="50" selection-end-line="13" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Javascript  String() methods for Extracting String part/substr() method examples/JS substr() with first param as negetive.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="10" column="40" lean-forward="false" selection-start-line="10" selection-start-column="40" selection-end-line="10" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Javascript  String() methods for Extracting String part/Notes on Extracting String Parts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="47" column="0" lean-forward="false" selection-start-line="47" selection-start-column="0" selection-end-line="47" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Javascript String Methods/JS String replace() method.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="4" column="16" lean-forward="false" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Javascript String Methods/JS String replace() method example2.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="19" column="7" lean-forward="false" selection-start-line="19" selection-start-column="7" selection-end-line="19" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Javascript String Methods/JS String toLowerCase() method.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="16" column="7" lean-forward="false" selection-start-line="16" selection-start-column="7" selection-end-line="16" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Javascript String Methods/Javascript String Methods Docs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="495">
-          <caret line="46" column="47" lean-forward="false" selection-start-line="46" selection-start-column="47" selection-end-line="46" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Javascript String Methods/JS String concat() method.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="13" column="51" lean-forward="false" selection-start-line="13" selection-start-column="51" selection-end-line="13" selection-end-column="51" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Javascript String() methods for Extracting String character/JS string charAt() method.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="15" column="7" lean-forward="false" selection-start-line="15" selection-start-column="7" selection-end-line="15" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Javascript String Methods/JS String toUpperCase() method.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="18" column="7" lean-forward="true" selection-start-line="18" selection-start-column="7" selection-end-line="18" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Javascript String() methods for Extracting String character/JS string charAtCode() method.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="16" column="7" lean-forward="true" selection-start-line="16" selection-start-column="7" selection-end-line="16" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Javascript String() methods for Extracting String character/JS Extracting a string character methods">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="495">
-          <caret line="31" column="0" lean-forward="false" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Javascript String() methods for Extracting String character/JS string split() method for Coverting String to Array.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="2" column="6" lean-forward="true" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Javascript Numbers/JS_Number_Example.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="16" column="7" lean-forward="true" selection-start-line="16" selection-start-column="7" selection-end-line="16" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Javascript Numbers/JS_Number_Example2.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="15" column="9" lean-forward="false" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Javascript Numbers/JS_Number_Example3.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="15" column="48" lean-forward="false" selection-start-line="15" selection-start-column="48" selection-end-line="15" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Javascript Numbers/JS_Number_Example4.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="14" column="48" lean-forward="false" selection-start-line="14" selection-start-column="48" selection-end-line="14" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Javascript Numbers/JS_Number_Example5.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="15" column="7" lean-forward="false" selection-start-line="15" selection-start-column="7" selection-end-line="15" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Javascript Numbers/JS_Number_Example6.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="8" column="74" lean-forward="false" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="74" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Javascript Numbers/JS_Number_Example7.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="414">
-          <caret line="23" column="9" lean-forward="true" selection-start-line="23" selection-start-column="9" selection-end-line="23" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Javascript Numbers/JS_NaN.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="14" column="7" lean-forward="true" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Javascript Numbers/JS_Number_Example8.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="11" column="55" lean-forward="false" selection-start-line="11" selection-start-column="55" selection-end-line="11" selection-end-column="55" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Javascript Numbers/JS_Number_Example12.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="14" column="23" lean-forward="false" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Javascript Numbers/JS_Number_Example13.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="13" column="62" lean-forward="false" selection-start-line="13" selection-start-column="62" selection-end-line="13" selection-end-column="62" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Javascript Numbers/JS_Number_Example11.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="12" column="55" lean-forward="false" selection-start-line="12" selection-start-column="55" selection-end-line="12" selection-end-column="55" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Javascript Numbers/JS_Number_Example10.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="12" column="13" lean-forward="false" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Javascript Numbers/JS_Number_example9.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="13" column="9" lean-forward="false" selection-start-line="13" selection-start-column="9" selection-end-line="13" selection-end-column="9" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Javascript Numbers/JS_Number_Example14.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="12" column="55" lean-forward="false" selection-start-line="12" selection-start-column="55" selection-end-line="12" selection-end-column="55" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Javascript Numbers/JS_NumberAsObjects_Example1.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="19" column="7" lean-forward="false" selection-start-line="19" selection-start-column="7" selection-end-line="19" selection-end-column="7" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Javascript Numbers/JS_NumberAsObject_Example2.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="15" column="54" lean-forward="false" selection-start-line="15" selection-start-column="54" selection-end-line="15" selection-end-column="54" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Javascript Number Methods/JS_toExponential()_Method.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="360">
           <caret line="20" column="7" lean-forward="false" selection-start-line="20" selection-start-column="7" selection-end-line="20" selection-end-column="7" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -465,7 +250,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="198">
           <caret line="11" column="54" lean-forward="false" selection-start-line="11" selection-start-column="54" selection-end-line="11" selection-end-column="54" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -473,7 +257,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="252">
           <caret line="14" column="7" lean-forward="false" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -481,7 +264,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
           <caret line="17" column="25" lean-forward="false" selection-start-line="17" selection-start-column="25" selection-end-line="17" selection-end-column="25" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -489,7 +271,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="252">
           <caret line="14" column="120" lean-forward="false" selection-start-line="14" selection-start-column="120" selection-end-line="14" selection-end-column="120" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -497,7 +278,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
           <caret line="17" column="7" lean-forward="false" selection-start-line="17" selection-start-column="7" selection-end-line="17" selection-end-column="7" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -505,7 +285,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="252">
           <caret line="14" column="9" lean-forward="false" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -513,7 +292,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="342">
           <caret line="19" column="7" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="7" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -521,7 +299,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="252">
           <caret line="14" column="7" lean-forward="true" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -529,7 +306,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="252">
           <caret line="14" column="7" lean-forward="true" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -537,7 +313,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="198">
           <caret line="11" column="58" lean-forward="false" selection-start-line="11" selection-start-column="58" selection-end-line="11" selection-end-column="58" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -545,7 +320,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="198">
           <caret line="11" column="58" lean-forward="false" selection-start-line="11" selection-start-column="58" selection-end-line="11" selection-end-column="58" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -553,7 +327,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="198">
           <caret line="11" column="63" lean-forward="false" selection-start-line="11" selection-start-column="63" selection-end-line="11" selection-end-column="63" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -561,7 +334,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="252">
           <caret line="14" column="7" lean-forward="true" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -569,7 +341,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="288">
           <caret line="16" column="7" lean-forward="true" selection-start-line="16" selection-start-column="7" selection-end-line="16" selection-end-column="7" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -577,7 +348,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="234">
           <caret line="13" column="71" lean-forward="false" selection-start-line="13" selection-start-column="71" selection-end-line="13" selection-end-column="71" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -585,7 +355,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="288">
           <caret line="16" column="7" lean-forward="true" selection-start-line="16" selection-start-column="7" selection-end-line="16" selection-end-column="7" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -593,7 +362,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="216">
           <caret line="12" column="79" lean-forward="false" selection-start-line="12" selection-start-column="79" selection-end-line="12" selection-end-column="79" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -601,7 +369,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="252">
           <caret line="14" column="61" lean-forward="false" selection-start-line="14" selection-start-column="61" selection-end-line="14" selection-end-column="61" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -609,6 +376,230 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="409">
           <caret line="88" column="0" lean-forward="true" selection-start-line="88" selection-start-column="0" selection-end-line="88" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Javascript Date/JS Date Example1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="13" column="7" lean-forward="true" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Javascript Date/JS Date Example2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="12" column="48" lean-forward="false" selection-start-line="12" selection-start-column="48" selection-end-line="12" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Javascript Date Methods.html" />
+    <entry file="file://$PROJECT_DIR$/Javascript Date/JS Date Example6.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="13" column="7" lean-forward="true" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Javascript Date/JS Date Example5.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="10" column="48" lean-forward="false" selection-start-line="10" selection-start-column="48" selection-end-line="10" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Javascript Date/JS Date Example4.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="14" column="4" lean-forward="true" selection-start-line="14" selection-start-column="4" selection-end-line="14" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Javascript Date/JS Date Example3.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="9" column="7" lean-forward="false" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Javascript Date Methods/JS Date tostring method.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="13" column="7" lean-forward="true" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Javascript Date Methods/JS Date toUTCString method.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="15" column="7" lean-forward="true" selection-start-line="15" selection-start-column="7" selection-end-line="15" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Javascript Date Methods/JS Date toDateString method.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="15" column="7" lean-forward="true" selection-start-line="15" selection-start-column="7" selection-end-line="15" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Javascript Date Formats/JS fulldate.html" />
+    <entry file="file://$PROJECT_DIR$/Javascript Date Formats/JS ISO Dates (Date-Time) T-GMT.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="16" column="7" lean-forward="true" selection-start-line="16" selection-start-column="7" selection-end-line="16" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Javascript Date Formats/JS ISO Date (YYYY).html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="14" column="7" lean-forward="true" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Javascript Date Formats/JS ISO Date.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="14" column="7" lean-forward="false" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Javascript Date Formats/JS ISO Dates (DATE-TIME) Z-UTC.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="16" column="7" lean-forward="true" selection-start-line="16" selection-start-column="7" selection-end-line="16" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Javascript Date Formats/JS ISO Date (Year and Month).html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="8" column="64" lean-forward="false" selection-start-line="8" selection-start-column="64" selection-end-line="8" selection-end-column="64" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Javascript Date Formats/JS Short Date Example1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="14" column="7" lean-forward="true" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Javascript Date Formats/JS Short Date Example2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="11" column="69" lean-forward="false" selection-start-line="11" selection-start-column="69" selection-end-line="11" selection-end-column="69" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Javascript Date Formats/JS Long Date Example1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="14" column="7" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="14" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Javascript Date Formats/JS Long Date Example2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="17" column="7" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="17" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Javascript Date Formats/JS Long Date Example3.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="4" column="3" lean-forward="false" selection-start-line="4" selection-start-column="3" selection-end-line="15" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Javascript Date Formats/JS Long Date Example4.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="15" column="7" lean-forward="true" selection-start-line="15" selection-start-column="7" selection-end-line="15" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Javascript Date Formats/JS Full Date Example1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="15" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Javascript Date Formats/JS Full Date Example2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="17" column="7" lean-forward="true" selection-start-line="17" selection-start-column="7" selection-end-line="17" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Javascript Date Methods/JS getTime() method.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="17" column="7" lean-forward="true" selection-start-line="17" selection-start-column="7" selection-end-line="17" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Javascript Date Methods/JS getFullYear() method.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="12" column="62" lean-forward="false" selection-start-line="12" selection-start-column="62" selection-end-line="12" selection-end-column="62" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Javascript Date Methods/JS getDay() method.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="15" column="7" lean-forward="true" selection-start-line="15" selection-start-column="7" selection-end-line="15" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Javascript Date Methods/JS getDay() method1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="17" column="7" lean-forward="true" selection-start-line="17" selection-start-column="7" selection-end-line="17" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Javascript Date Methods/JS setFullYear() method.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="13" column="48" lean-forward="false" selection-start-line="13" selection-start-column="48" selection-end-line="13" selection-end-column="48" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Javascript Date Methods/JS setDate() method.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="14" column="9" lean-forward="true" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Javascript Date Methods/JS setDate() method Example1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
           <folding />
         </state>
       </provider>

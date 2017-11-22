@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Javascript Array Methods</title>
+</head>
+<body>
+<h1>Javascript Array Methods</h1>
+<p>The reverse() method reverses the element </p>
+<p id="demo"></p>
+<button onclick="myfunc()">try it</button>
+<script>
+    var fruits = ["Apple","Banana","Mango","Orange"];
+    document.getElementById('demo').innerHTML=fruits
+
+    function myfunc() {
+        fruits.sort();
+        fruits.reverse();
+        document.getElementById('demo').innerHTML = fruits;
+    }
+</script>
+
+</body>
+</html>

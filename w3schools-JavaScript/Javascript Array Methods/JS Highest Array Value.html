@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Javascript Highest Array value</title>
+</head>
+<body>
+<h1>Javascript Highest Array Value</h1>
+<p >Javascript highest array value<span id="demo"></span></p>
+<script>
+    var points = [40,10,100,5,25];
+    points.sort(function (a,b){return b-a});
+    document.getElementById('demo').innerHTML=points[0];
+</script>
+</body>
+</html>

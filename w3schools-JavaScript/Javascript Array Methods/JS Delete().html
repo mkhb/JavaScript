@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Javascript Array Methods</title>
+</head>
+<body>
+<p>Deleting elements leaves undefined holes in an array.</p>
+<p id="demo1"></p>
+<p id="demo2"></p>
+<script>
+    var fruits=["Apple","Orange","Mango"];
+    document.getElementById('demo1').innerHTML=fruits;
+    delete fruits[0];
+    document.getElementById('demo2').innerHTML="The First Fruit is "+fruits[0];
+</script>
+</body>
+</html>

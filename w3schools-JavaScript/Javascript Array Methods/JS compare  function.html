@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Javascript Compare Function</title>
+</head>
+<body>
+<h1>Javascript Compare Function</h1>
+<p>Click the buttons to sort the array alphabetically or numerically.</p>
+
+<button onclick="myfunction1()">Sort Alpahabetically</button>
+<button onclick="myfunction2()">Sort Numerically</button>
+<p id="demo"></p>
+<script>
+    var points = [40,100,1,5,25,10];
+    document.getElementById('demo').innerHTML=points;
+
+    function myfunction1() {
+        points.sort();
+        document.getElementById('demo').innerHTML=points;
+    }
+
+    function myfunction2() {
+        points.sort(function (a,b){return a-b;});
+        document.getElementById('demo').innerHTML=points;
+    }
+</script>
+</body>
+</html>

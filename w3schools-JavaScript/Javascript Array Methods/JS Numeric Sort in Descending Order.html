@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Javascript Numeric Sort in Descending Order</title>
+</head>
+<body>
+<p>Javascript sort method to sort numbers in ascending order</p>
+<button onclick="myfun()">Try it</button>
+<p id="demo"></p>
+<script>
+    var points = [12,10,17,15,25,30];
+    document.getElementById('demo').innerHTML=points;
+
+    function myfun() {
+        points.sort(function(a,b){return b-a});
+      document.getElementById('demo').innerHTML=points;
+    }
+</script>
+</body>
+</html>

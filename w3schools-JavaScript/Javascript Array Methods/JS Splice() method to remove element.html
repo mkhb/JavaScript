@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Javascript Array Methods</title>
+</head>
+<body>
+<h1>Javascript splice() to remove an element from an array</h1>
+<p id="demo"></p>
+<button onclick="myfunc()">Try it</button>
+<script>
+    var fruits = ["apple","Banana","Mango","Orange","Pineapple"];
+    document.getElementById('demo').innerHTML=fruits;
+    function myfunc() {
+        fruits.splice(0,1);
+        document.getElementById('demo').innerHTML=fruits;
+    }
+</script>
+</body>
+</html>

@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Booleans Can be Objects</title>
+</head>
+<body>
+<h1>Never Create Booleans  Objects</h1>
+<h2>Booleans an Objects cannot be safely compared </h2>
+<p id="demo"></p>
+<script>
+    var x =false; //returns boolean
+    var y = new Object(false); //returns object
+    document.getElementById('demo').innerHTML= typeof x + "<br>" + typeof y;
+</script>
+</body>
+</html>

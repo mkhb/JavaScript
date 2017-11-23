@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>When using the == operator, equal booleans are equal</title>
+</head>
+<body>
+<h1>Never Create Booleans as Object</h1>
+<h2>Booleans and Objects are difficult to compare</h2>
+<p id="demo"></p>
+<script>
+    var x = false;
+    var y = new Object(false);
+    document.getElementById('demo').innerHTML= (x==y); // returns true bcoz the variable values are equal
+</script>
+</body>
+</html>

@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Javascript objects cannot be compared</title>
+</head>
+<body>
+<h1>Never create booleans using objects</h1>
+<h2>objects and booleans cannot be compared</h2>
+<p id="demo"></p>
+<script>
+    var x = new Object(false);
+    var y = new Object(false);
+    document.getElementById('demo').innerHTML= (x==y) //we cannot compare two objects in java
+</script>
+</body>
+</html>
